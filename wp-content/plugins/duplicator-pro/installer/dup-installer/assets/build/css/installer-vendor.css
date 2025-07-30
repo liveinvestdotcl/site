@@ -1036,31 +1036,31 @@ a.ui-button:active,
 }
 .ui-icon,
 .ui-widget-content .ui-icon {
-	background-image: url(/site/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-icons_444444_256x240.png);
+	background-image: url(/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-icons_444444_256x240.png);
 }
 .ui-widget-header .ui-icon {
-	background-image: url(/site/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-icons_444444_256x240.png);
+	background-image: url(/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-icons_444444_256x240.png);
 }
 .ui-state-hover .ui-icon,
 .ui-state-focus .ui-icon,
 .ui-button:hover .ui-icon,
 .ui-button:focus .ui-icon {
-	background-image: url(/site/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-icons_555555_256x240.png);
+	background-image: url(/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-icons_555555_256x240.png);
 }
 .ui-state-active .ui-icon,
 .ui-button:active .ui-icon {
-	background-image: url(/site/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-icons_ffffff_256x240.png);
+	background-image: url(/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-icons_ffffff_256x240.png);
 }
 .ui-state-highlight .ui-icon,
 .ui-button .ui-state-highlight.ui-icon {
-	background-image: url(/site/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-icons_777620_256x240.png);
+	background-image: url(/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-icons_777620_256x240.png);
 }
 .ui-state-error .ui-icon,
 .ui-state-error-text .ui-icon {
-	background-image: url(/site/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-icons_cc0000_256x240.png);
+	background-image: url(/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-icons_cc0000_256x240.png);
 }
 .ui-button .ui-icon {
-	background-image: url(/site/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-icons_777777_256x240.png);
+	background-image: url(/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-icons_777777_256x240.png);
 }
 
 /* positioning */
@@ -1283,4 +1283,4 @@ a.ui-button:active,
 	box-shadow: 0px 0px 5px #666666;
 }
 
-.ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default,.ui-button,html .ui-button.ui-state-disabled:hover,html .ui-button.ui-state-disabled:active{border:1px solid #d3d3d3;background:#e6e6e6 url(/site/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-bg_glass_75_e6e6e6_1x400.png) 50% 50% repeat-x;font-weight:normal;color:#555}.ui-state-default a,.ui-state-default a:link,.ui-state-default a:visited,a.ui-button,a:link.ui-button,a:visited.ui-button,.ui-button{color:#555;text-decoration:none}.ui-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-state-focus,.ui-button:hover,.ui-button:focus{border:1px solid #999;background:#dadada url(/site/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-bg_glass_75_dadada_1x400.png) 50% 50% repeat-x;font-weight:normal;color:#212121}.ui-state-hover a,.ui-state-hover a:hover,.ui-state-hover a:link,.ui-state-hover a:visited,.ui-state-focus a,.ui-state-focus a:hover,.ui-state-focus a:link,.ui-state-focus a:visited,a.ui-button:hover,a.ui-button:focus{color:#212121;text-decoration:none}.ui-visual-focus{box-shadow:0 0 3px 1px #5e9ed6}.ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active,a.ui-button:active,.ui-button:active,.ui-button.ui-state-active:hover{border:1px solid #aaa;background:#fff url(/site/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-bg_glass_65_ffffff_1x400.png) 50% 50% repeat-x;font-weight:normal;color:#212121}.ui-state-active a,.ui-state-active a:link,.ui-state-active a:visited{color:#212121;text-decoration:none}
+.ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default,.ui-button,html .ui-button.ui-state-disabled:hover,html .ui-button.ui-state-disabled:active{border:1px solid #d3d3d3;background:#e6e6e6 url(/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-bg_glass_75_e6e6e6_1x400.png) 50% 50% repeat-x;font-weight:normal;color:#555}.ui-state-default a,.ui-state-default a:link,.ui-state-default a:visited,a.ui-button,a:link.ui-button,a:visited.ui-button,.ui-button{color:#555;text-decoration:none}.ui-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-state-focus,.ui-button:hover,.ui-button:focus{border:1px solid #999;background:#dadada url(/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-bg_glass_75_dadada_1x400.png) 50% 50% repeat-x;font-weight:normal;color:#212121}.ui-state-hover a,.ui-state-hover a:hover,.ui-state-hover a:link,.ui-state-hover a:visited,.ui-state-focus a,.ui-state-focus a:hover,.ui-state-focus a:link,.ui-state-focus a:visited,a.ui-button:hover,a.ui-button:focus{color:#212121;text-decoration:none}.ui-visual-focus{box-shadow:0 0 3px 1px #5e9ed6}.ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active,a.ui-button:active,.ui-button:active,.ui-button.ui-state-active:hover{border:1px solid #aaa;background:#fff url(/wp-content/plugins/duplicator-pro/installer/dup-installer/assets/build/images/ui-bg_glass_65_ffffff_1x400.png) 50% 50% repeat-x;font-weight:normal;color:#212121}.ui-state-active a,.ui-state-active a:link,.ui-state-active a:visited{color:#212121;text-decoration:none}

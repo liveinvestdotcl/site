@@ -490,7 +490,7 @@
 
 .jstree-snap .jstree-node,
 .jstree-snap .jstree-icon {
-    background-image: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png");
+    background-image: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png");
 }
 
 .jstree-snap .jstree-node {
@@ -634,15 +634,15 @@
 }
 
 .jstree-snap>.jstree-container-ul .jstree-loading>.jstree-ocl {
-    background: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/throbber.gif") center center no-repeat;
+    background: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/throbber.gif") center center no-repeat;
 }
 
 .jstree-snap .jstree-file {
-    background: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png") -100px -68px no-repeat;
+    background: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png") -100px -68px no-repeat;
 }
 
 .jstree-snap .jstree-folder {
-    background: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png") -260px -4px no-repeat;
+    background: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png") -260px -4px no-repeat;
 }
 
 .jstree-snap>.jstree-container-ul>.jstree-node {
@@ -657,7 +657,7 @@
 
 #jstree-dnd.jstree-snap .jstree-ok,
 #jstree-dnd.jstree-snap .jstree-er {
-    background-image: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png");
+    background-image: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png");
     background-repeat: no-repeat;
     background-color: transparent;
 }
@@ -729,7 +729,7 @@
 
 .jstree-snap-small .jstree-node,
 .jstree-snap-small .jstree-icon {
-    background-image: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png");
+    background-image: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png");
 }
 
 .jstree-snap-small .jstree-node {
@@ -864,15 +864,15 @@
 }
 
 .jstree-snap-small>.jstree-container-ul .jstree-loading>.jstree-ocl {
-    background: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/throbber.gif") center center no-repeat;
+    background: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/throbber.gif") center center no-repeat;
 }
 
 .jstree-snap-small .jstree-file {
-    background: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png") -103px -71px no-repeat;
+    background: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png") -103px -71px no-repeat;
 }
 
 .jstree-snap-small .jstree-folder {
-    background: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png") -263px -7px no-repeat;
+    background: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png") -263px -7px no-repeat;
 }
 
 .jstree-snap-small>.jstree-container-ul>.jstree-node {
@@ -887,7 +887,7 @@
 
 #jstree-dnd.jstree-snap-small .jstree-ok,
 #jstree-dnd.jstree-snap-small .jstree-er {
-    background-image: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png");
+    background-image: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png");
     background-repeat: no-repeat;
     background-color: transparent;
 }
@@ -959,7 +959,7 @@
 
 .jstree-snap-large .jstree-node,
 .jstree-snap-large .jstree-icon {
-    background-image: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png");
+    background-image: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png");
 }
 
 .jstree-snap-large .jstree-node {
@@ -1094,15 +1094,15 @@
 }
 
 .jstree-snap-large>.jstree-container-ul .jstree-loading>.jstree-ocl {
-    background: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/throbber.gif") center center no-repeat;
+    background: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/throbber.gif") center center no-repeat;
 }
 
 .jstree-snap-large .jstree-file {
-    background: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png") -96px -64px no-repeat;
+    background: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png") -96px -64px no-repeat;
 }
 
 .jstree-snap-large .jstree-folder {
-    background: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png") -256px 0px no-repeat;
+    background: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png") -256px 0px no-repeat;
 }
 
 .jstree-snap-large>.jstree-container-ul>.jstree-node {
@@ -1117,7 +1117,7 @@
 
 #jstree-dnd.jstree-snap-large .jstree-ok,
 #jstree-dnd.jstree-snap-large .jstree-er {
-    background-image: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png");
+    background-image: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/32px.png");
     background-repeat: no-repeat;
     background-color: transparent;
 }
@@ -1168,12 +1168,12 @@
         height: 40px;
     }
     #jstree-dnd.jstree-dnd-responsive>.jstree-ok {
-        background-image: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/40px.png");
+        background-image: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/40px.png");
         background-position: 0 -200px;
         background-size: 120px 240px;
     }
     #jstree-dnd.jstree-dnd-responsive>.jstree-er {
-        background-image: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/40px.png");
+        background-image: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/40px.png");
         background-position: -40px -200px;
         background-size: 120px 240px;
     }
@@ -1193,7 +1193,7 @@
     */
     }
     .jstree-snap-responsive .jstree-icon {
-        background-image: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/40px.png");
+        background-image: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/40px.png");
     }
     .jstree-snap-responsive .jstree-node,
     .jstree-snap-responsive .jstree-leaf>.jstree-ocl {
@@ -1297,7 +1297,7 @@
     .jstree-snap-responsive .jstree-node>.jstree-ocl,
     .jstree-snap-responsive .jstree-themeicon,
     .jstree-snap-responsive .jstree-checkbox {
-        background-image: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/40px.png");
+        background-image: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/40px.png");
         background-size: 120px 240px;
     }
     .jstree-snap-responsive .jstree-node {
@@ -1319,11 +1319,11 @@
         background-position: 0 0;
     }
     .jstree-snap-responsive .jstree-file {
-        background: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/40px.png") 0 -160px no-repeat;
+        background: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/40px.png") 0 -160px no-repeat;
         background-size: 120px 240px;
     }
     .jstree-snap-responsive .jstree-folder {
-        background: url("/site/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/40px.png") -40px -40px no-repeat;
+        background: url("/wp-content/plugins/duplicator-pro/assets/js/jstree/themes/snap/40px.png") -40px -40px no-repeat;
         background-size: 120px 240px;
     }
     .jstree-snap-responsive>.jstree-container-ul>.jstree-node {

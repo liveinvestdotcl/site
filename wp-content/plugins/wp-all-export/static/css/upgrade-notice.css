@@ -11,7 +11,7 @@
   height: 12px;
   width: 12px;
   position: absolute;
-  background-image: url("/site/wp-content/plugins/wp-all-export/static/img/upgrade-notice/dismiss.svg");
+  background-image: url("/wp-content/plugins/wp-all-export/static/img/upgrade-notice/dismiss.svg");
   background-repeat: no-repeat;
   background-size: 12px;
   top: 25px;
@@ -59,16 +59,16 @@
   line-height: 1.5;
 }
 .wpallexport-plugin .wpallexport-upgrade-notice .upgrade > .perks > li.guarantee > span:before {
-  background-image: url("/site/wp-content/plugins/wp-all-export/static/img/upgrade-notice/guarantee.svg");
+  background-image: url("/wp-content/plugins/wp-all-export/static/img/upgrade-notice/guarantee.svg");
 }
 .wpallexport-plugin .wpallexport-upgrade-notice .upgrade > .perks > li.updates > span:before {
-  background-image: url("/site/wp-content/plugins/wp-all-export/static/img/upgrade-notice/updates.svg");
+  background-image: url("/wp-content/plugins/wp-all-export/static/img/upgrade-notice/updates.svg");
 }
 .wpallexport-plugin .wpallexport-upgrade-notice .upgrade > .perks > li.support > span:before {
-  background-image: url("/site/wp-content/plugins/wp-all-export/static/img/upgrade-notice/support.svg");
+  background-image: url("/wp-content/plugins/wp-all-export/static/img/upgrade-notice/support.svg");
 }
 .wpallexport-plugin .wpallexport-upgrade-notice .upgrade > .perks > li.license > span:before {
-  background-image: url("/site/wp-content/plugins/wp-all-export/static/img/upgrade-notice/license.svg");
+  background-image: url("/wp-content/plugins/wp-all-export/static/img/upgrade-notice/license.svg");
 }
 .wpallexport-plugin .wpallexport-upgrade-notice .upgrade > .features {
   display: flex;
@@ -92,7 +92,7 @@
   display: inline-flex;
   height: 16px;
   width: 16px;
-  background-image: url("/site/wp-content/plugins/wp-all-export/static/img/upgrade-notice/check.svg");
+  background-image: url("/wp-content/plugins/wp-all-export/static/img/upgrade-notice/check.svg");
   background-size: 16px;
   margin-right: 12px;
 }

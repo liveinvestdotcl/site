@@ -315,11 +315,11 @@
 /* Touch Swipe
 --------------------------------------------------*/
 .sp-grab {
-	cursor: url(/site/wp-content/plugins/jet-elements/assets/css/lib/slider-pro/images/openhand.cur), move;
+	cursor: url(/wp-content/plugins/jet-elements/assets/css/lib/slider-pro/images/openhand.cur), move;
 }
 
 .sp-grabbing {
-	cursor: url(/site/wp-content/plugins/jet-elements/assets/css/lib/slider-pro/images/closedhand.cur), move;
+	cursor: url(/wp-content/plugins/jet-elements/assets/css/lib/slider-pro/images/closedhand.cur), move;
 }
 
 .sp-selectable {

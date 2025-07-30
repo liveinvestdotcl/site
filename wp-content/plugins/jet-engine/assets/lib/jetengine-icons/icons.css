@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'JetEngine-widgets';
-  src:  url('/site/wp-content/plugins/jet-engine/assets/lib/jetengine-icons/fonts/JetEngine-widgets.eot?4rrzht');
-  src:  url('/site/wp-content/plugins/jet-engine/assets/lib/jetengine-icons/fonts/JetEngine-widgets.eot?4rrzht#iefix') format('embedded-opentype'),
-    url('/site/wp-content/plugins/jet-engine/assets/lib/jetengine-icons/fonts/JetEngine-widgets.ttf?4rrzht') format('truetype'),
-    url('/site/wp-content/plugins/jet-engine/assets/lib/jetengine-icons/fonts/JetEngine-widgets.woff?4rrzht') format('woff'),
-    url('/site/wp-content/plugins/jet-engine/assets/lib/jetengine-icons/fonts/JetEngine-widgets.svg?4rrzht#JetEngine-widgets') format('svg');
+  src:  url('/wp-content/plugins/jet-engine/assets/lib/jetengine-icons/fonts/JetEngine-widgets.eot?4rrzht');
+  src:  url('/wp-content/plugins/jet-engine/assets/lib/jetengine-icons/fonts/JetEngine-widgets.eot?4rrzht#iefix') format('embedded-opentype'),
+    url('/wp-content/plugins/jet-engine/assets/lib/jetengine-icons/fonts/JetEngine-widgets.ttf?4rrzht') format('truetype'),
+    url('/wp-content/plugins/jet-engine/assets/lib/jetengine-icons/fonts/JetEngine-widgets.woff?4rrzht') format('woff'),
+    url('/wp-content/plugins/jet-engine/assets/lib/jetengine-icons/fonts/JetEngine-widgets.svg?4rrzht#JetEngine-widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'JetSmartFilters-widgets';
-  src:  url('/site/wp-content/plugins/jet-smart-filters/assets/css/lib/jet-smart-filters-icons/fonts/JetSmartFilters-widgets.eot?ymslgl');
-  src:  url('/site/wp-content/plugins/jet-smart-filters/assets/css/lib/jet-smart-filters-icons/fonts/JetSmartFilters-widgets.eot?ymslgl#iefix') format('embedded-opentype'),
-    url('/site/wp-content/plugins/jet-smart-filters/assets/css/lib/jet-smart-filters-icons/fonts/JetSmartFilters-widgets.ttf?ymslgl') format('truetype'),
-    url('/site/wp-content/plugins/jet-smart-filters/assets/css/lib/jet-smart-filters-icons/fonts/JetSmartFilters-widgets.woff?ymslgl') format('woff'),
-    url('/site/wp-content/plugins/jet-smart-filters/assets/css/lib/jet-smart-filters-icons/fonts/JetSmartFilters-widgets.svg?ymslgl#JetSmartFilters-widgets') format('svg');
+  src:  url('/wp-content/plugins/jet-smart-filters/assets/css/lib/jet-smart-filters-icons/fonts/JetSmartFilters-widgets.eot?ymslgl');
+  src:  url('/wp-content/plugins/jet-smart-filters/assets/css/lib/jet-smart-filters-icons/fonts/JetSmartFilters-widgets.eot?ymslgl#iefix') format('embedded-opentype'),
+    url('/wp-content/plugins/jet-smart-filters/assets/css/lib/jet-smart-filters-icons/fonts/JetSmartFilters-widgets.ttf?ymslgl') format('truetype'),
+    url('/wp-content/plugins/jet-smart-filters/assets/css/lib/jet-smart-filters-icons/fonts/JetSmartFilters-widgets.woff?ymslgl') format('woff'),
+    url('/wp-content/plugins/jet-smart-filters/assets/css/lib/jet-smart-filters-icons/fonts/JetSmartFilters-widgets.svg?ymslgl#JetSmartFilters-widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
